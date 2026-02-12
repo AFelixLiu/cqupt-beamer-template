@@ -62,6 +62,6 @@
 
 ## ⚖️ 许可证与致谢
 
-* 本项目采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可证进行分发。您可以自由共享、修改，但请保留原作者及本仓库的署名。
+* 本项目遵循 **[CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)**。您可以自由共享、修改，但请保留原作者及本仓库的署名。
 
 * 致谢：核心代码修改自【<u>[liu-qilong/college-beamer](https://github.com/liu-qilong/college-beamer)</u>】。感谢原作者对社区的贡献。
